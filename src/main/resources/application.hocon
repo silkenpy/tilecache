@@ -1,0 +1,6 @@
+tileCache{
+    bindIp = "0.0.0.0"
+    bindPort = 8080
+    metricPort = 7070
+    masterSource = "127.0.0.1:6767"
+}
